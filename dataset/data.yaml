@@ -1,0 +1,8 @@
+train: dataset/train  
+val: dataset/val 
+
+# number of classes
+nc: 2
+
+# class names
+names: ['licence-plate', 'car']
