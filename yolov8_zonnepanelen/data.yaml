@@ -1,0 +1,5 @@
+train: datasets/train/images
+val: datasets/val/images
+
+nc: 3
+names: ['solar-panel', 'solar-panel1', 'solar-panel2']
